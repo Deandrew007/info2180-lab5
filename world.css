@@ -26,7 +26,7 @@ main{
     grid-area: main;
 }
 
-.l1{
+.btn1{
     background-color: rgb(94, 203, 223);
     color: black;
     padding: 10px;
@@ -37,8 +37,8 @@ main{
     height: 45px;  
     border-radius: 10px;
 }
-.l2{
-    background-color: rgb(60, 159, 184);
+.btn2{
+    background-color: rgb(60, 184, 87);
     color: black;
     padding: 10px;
     margin-left: 15px;
